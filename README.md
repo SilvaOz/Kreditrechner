@@ -1,4 +1,5 @@
 # Cotizador de Préstamos
+<img src="https://github.com/SilvaOz/Kreditrechner/blob/main/public/geld.png">
 
 Este es un proyecto personal creado para practicar React. Es una aplicación que permite calcular el valor de un préstamo y sus pagos mensuales en función de la cantidad y los meses elegidos.
 
