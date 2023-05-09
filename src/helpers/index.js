@@ -9,7 +9,7 @@ const formatearDinero = (value) => {
 const calcularTotalPagar = (cantidad, plazo) => {
     let total;
 
-    if(cantidad < 5000) {
+    if(cantidad < 0) {
 
     }else if(cantidad >= 5000 && cantidad < 10000) {
         total = cantidad * 1.4;
